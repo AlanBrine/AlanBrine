@@ -1,8 +1,8 @@
 
 <div align="center">
   <a href="https://github.com/Alanbrine">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=AlanBrine&show_icons=&theme=dark&include_all_commits=false&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanBrine&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanBrine&show_icons=&theme=dark&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanBrine&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div align="center" style="display: inline_block"><br>
  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
